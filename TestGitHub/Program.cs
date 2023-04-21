@@ -12,6 +12,8 @@ Console.WriteLine("TestJulie");
 
 Console.WriteLine("Hej med dig :)");
 
+Console.WriteLine("Heeeej :)");
+
 JulieClass jc = new JulieClass("Julie", "adresse 123");
 Sarah SClass = new Sarah(23);
 
