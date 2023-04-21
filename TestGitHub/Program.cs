@@ -13,17 +13,17 @@ Console.WriteLine("TestJulie");
 Console.WriteLine("Hej med dig :)");
 
 JulieClass jc = new JulieClass("Julie", "adresse 123");
-Sarah SClass = new Sarah(25);
+Sarah SClass = new Sarah(23);
 
 Console.WriteLine(jc.Name);
 Console.WriteLine(jc.Address);
 
 Console.WriteLine("Alder:" + SClass.Alder);
 
-Sarah SClass1 = new Sarah(25);
-Sarah SClass2 = new Sarah(19);
-Sarah SClass3 = new Sarah(32);
+Sarah SClass1 = new Sarah(7);
+Sarah SClass2 = new Sarah(29);
+Sarah SClass3 = new Sarah(35);
 
-Console.WriteLine("\t"+SClass.Alder + SClass1.Alder);
-Console.WriteLine("\t"+SClass.Alder + SClass2.Alder);
-Console.WriteLine("\t"+SClass3.Alder + SClass1.Alder);
+Console.WriteLine(SClass.Alder + SClass1.Alder);
+Console.WriteLine(SClass.Alder + SClass2.Alder);
+Console.WriteLine(SClass3.Alder + SClass1.Alder);
