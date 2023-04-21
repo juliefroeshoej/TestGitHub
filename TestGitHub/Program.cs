@@ -2,7 +2,7 @@
 using TestGitHub;
 using TestGitHub.ClassSarah;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Det her er sprint 2!");
 
 Console.WriteLine("Not This");
 Console.WriteLine("Nope");
