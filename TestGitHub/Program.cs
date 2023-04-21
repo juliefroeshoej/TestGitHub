@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using TestGitHub;
+using TestGitHub.ClassSarah;
 
 Console.WriteLine("Hello, World!");
 
