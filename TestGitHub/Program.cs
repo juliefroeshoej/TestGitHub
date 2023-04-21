@@ -4,15 +4,12 @@ using TestGitHub.ClassSarah;
 
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Keep This");
-Console.WriteLine("Yeppie");
-
-
+Console.WriteLine("Not This");
+Console.WriteLine("Nope");
 
 JulieClass jc = new JulieClass("Julie", "adresse 123");
 Console.WriteLine(jc.Name);
 Console.WriteLine(jc.Address);
 
-
-Sarah SClass = new Sarah(23);
+Sarah SClass = new Sarah(25);
 Console.WriteLine(SClass.Alder);
