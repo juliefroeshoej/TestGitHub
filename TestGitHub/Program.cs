@@ -4,6 +4,11 @@ using TestGitHub.ClassSarah;
 
 Console.WriteLine("Hello, World!");
 
+Console.WriteLine("Keep This");
+Console.WriteLine("Yeppie");
+
+
+
 JulieClass jc = new JulieClass("Julie", "adresse 123");
 Console.WriteLine(jc.Name);
 Console.WriteLine(jc.Address);
