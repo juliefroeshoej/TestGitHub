@@ -10,6 +10,7 @@ Console.WriteLine("Nope");
 Console.WriteLine("TestSarah");
 Console.WriteLine("TestJulie");
 
+Console.WriteLine("Hej med dig :)");
 
 JulieClass jc = new JulieClass("Julie", "adresse 123");
 Sarah SClass = new Sarah(25);
