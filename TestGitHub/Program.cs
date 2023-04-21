@@ -6,6 +6,7 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Not This");
 Console.WriteLine("Nope");
+Console.WriteLine("TestJulie");
 
 JulieClass jc = new JulieClass("Julie", "adresse 123");
 Console.WriteLine(jc.Name);
